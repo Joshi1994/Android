@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998036641566",
+    "firebase_url": "https://joshiesigelec2019.firebaseio.com",
+    "project_id": "joshiesigelec2019",
+    "storage_bucket": "joshiesigelec2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998036641566:android:1ecac27ba73e643b39db0f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998036641566-moe7n113lgo7id49ngehgf5no94s8hp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FV-5jAnxKUfVB5hMlyaVC4RQGFCfFSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998036641566-moe7n113lgo7id49ngehgf5no94s8hp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
